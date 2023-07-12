@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj": {}
+  },
+  "projects": {
+    "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj",
+        "projectName": "OnlineAssessment",
+        "projectPath": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj",
+        "packagesPath": "/home/mrityunjay/.nuget/packages/",
+        "outputPath": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrityunjay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "microsoft.entityframeworkcore.design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
