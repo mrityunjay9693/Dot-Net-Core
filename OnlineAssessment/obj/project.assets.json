@@ -1270,11 +1270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj",
+      "projectUniqueName": "/home/mrityunjay/GITHUB/Online-Assessment-Project-Dot-Net-Core/OnlineAssessment/OnlineAssessment.csproj",
       "projectName": "OnlineAssessment",
-      "projectPath": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/OnlineAssessment.csproj",
+      "projectPath": "/home/mrityunjay/GITHUB/Online-Assessment-Project-Dot-Net-Core/OnlineAssessment/OnlineAssessment.csproj",
       "packagesPath": "/home/mrityunjay/.nuget/packages/",
-      "outputPath": "/home/mrityunjay/GITHUB/Dot-Net-Core/ONLINE ASSESSMENT/OnlineAssessment/obj/",
+      "outputPath": "/home/mrityunjay/GITHUB/Online-Assessment-Project-Dot-Net-Core/OnlineAssessment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mrityunjay/.nuget/NuGet/NuGet.Config"
